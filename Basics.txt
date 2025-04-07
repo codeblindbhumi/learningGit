@@ -1,8 +1,8 @@
+Function();
 My first line of code();
 My second line of code();
 My third line of code();
 
-code line changes in feature branch
 
 Code line 1:
 Code line 2;
